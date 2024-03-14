@@ -17,7 +17,7 @@ const Camp = () => {
         </div>
         </div>
       <div className='overflow-hidden'>
-        <div className='flex items-start gap-8 overflow-x-auto custom-scrollbar'>
+        <div className='flex items-start gap-8 overflow-x-auto custom-scrollbar lg:px-10'>
           {CampImage.map((camp) => (
             <img key={camp.id} src={camp.img} alt={`Camp Image ${camp.id}`} 
             className="h-64 lg:w-4/5 w-3/4 rounded-lg text-black" />

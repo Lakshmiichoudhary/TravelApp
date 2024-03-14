@@ -25,3 +25,5 @@ export const CampImage = [
     }
 
 ]
+
+export const featureImage = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8B5R2bF512CP_yHvxIIJfJeIwCFpLhbRbh1bo5KU0AWydcehGx8eZowTd-PB9JJaf-tI&usqp=CAU"

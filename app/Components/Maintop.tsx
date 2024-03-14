@@ -5,8 +5,8 @@ const Maintop = () => {
   return (
     <section className='flex p-4 lg:p-8'>
       <div className='lg:flex'>
-        <div className='mx-6 mt-3'>
-          <h1 className='font-bold text-2xl'>Adventure Calls. Answer Now.</h1>
+        <div className='mx-6 mt-3 lg:px-10'>
+          <h1 className='font-bold text-2xl lg:text-3xl'>Adventure Calls. Answer Now.</h1>
           <p className='mt-4 xl:max-w[520px]'>Introducing our innovative travel app project, designed to revolutionize the way you explore the world.
           With intuitive features for seamless trip planning, real-time updates, and personalized recommendations,
           embark on unforgettable journeys with confidence.
