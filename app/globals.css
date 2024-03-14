@@ -2,3 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+.custom-scrollbar {
+    overflow-x: auto;
+    scrollbar-width: none; 
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar {
+    display: none; 
+  }
+  
