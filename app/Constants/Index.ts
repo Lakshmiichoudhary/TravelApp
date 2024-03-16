@@ -22,8 +22,31 @@ export const CampImage = [
     {
         id:4,
         img : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcXSiILFs-S8jrSdCTgrTXZXtXpUC0q9Rro339qfHKBcsyA8mIsGasEZ2bKg&s" 
+    },
+    {
+      id:5,
+      img : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWH1bBUeJFr9kkkXWcNts2Q3QPrcbTlmEZUA&usqp=CAU"
     }
 
 ]
 
 export const featureImage = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8B5R2bF512CP_yHvxIIJfJeIwCFpLhbRbh1bo5KU0AWydcehGx8eZowTd-PB9JJaf-tI&usqp=CAU"
+
+export const FOOTER_LINKS = [
+    {
+      title: 'Learn More',
+      links: [
+        'About TravelGo',
+        'Press Releases',
+        'Environment',
+        'Jobs',
+        'Privacy Policy',
+        'Contact Us',
+      ],
+    },
+    {
+      title: 'Our Community',
+      links: ['Climbing xixixi', 'TravelGo', 'TravelGo kinthill'],
+    },
+  ];
+  

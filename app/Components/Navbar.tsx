@@ -4,7 +4,7 @@ import { Nav_Links } from "../Constants/Index"
 
 const Navbar = () => {
   return (
-    <nav className=" relative z-30 flex justify-between">
+    <nav className=" relative z-30 flex justify-between lg:px-12 shadow-slate-300 shadow-md">
         <Link href="/">
           <Image src="/logo.jpg" alt="logo" width={80} height={40} className="mx-4" />
         </Link>
